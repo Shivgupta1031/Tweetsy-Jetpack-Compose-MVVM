@@ -1,9 +1,9 @@
 # Tweetsy-Jetpack-Compose-MVVM
 This Is a Simple App where Tweets According To Different Categories Are Shown. It Is Built In Kotlin Using Clean Architecture Practices!
 
-Categories & Tweets Are Fetched Usig A Free API Using Retrofit API Calls And Then Shown In App
+Categories & Tweets Are Fetched Using A Free API Using Retrofit API Calls And Then Shown In App
 
-This App Uses The Following Libraries :
+Libraries Used:
 1. Jetpack Compose
 2. Hilt
 3. Navigation Component
